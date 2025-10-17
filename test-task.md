@@ -13,7 +13,7 @@
 
 4. Составьте чек-лист для проведения Smoke Testing плеера, используемого на сайте https://www.youtube.com.
 
-5. Найдите и оформите баг-репорт, используя методику Exploratory Testing, на сайте [https://guru.gahacking.ru/](https://guru.qahacking.ru/) или https://voshod7.ru (при желании можете завести по багу на каждый сайт).
+5. Найдите и оформите баг-репорт, используя методику Exploratory Testing, на сайте [https://guru.gahacking.ru/](https://guru.qahacking.ru/) или https://voshod7.ru.
 
 ---
 
