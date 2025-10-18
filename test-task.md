@@ -144,9 +144,9 @@
    - 360×640 (мобильное устройство)  
 
 3. **Браузер**:  
-   - Google Chrome (последняя версия)  
-   - Mozilla Firefox (последняя версия)  
-   - Safari (последняя версия)  
-   - Microsoft Edge (последняя версия)  
+   - Google Chrome 
+   - Mozilla Firefox
+   - Safari
+   - Microsoft Edge
 
 ---
