@@ -172,7 +172,7 @@
 
 ---
 
-## 📋 5. Баг-репорт — Exploratory Testing (`guru.gahacking.ru`)
+## 📋 5. Баг-репорт — Exploratory Testing [https://guru.gahacking.ru/](https://guru.qahacking.ru/)
 
 ---
 
