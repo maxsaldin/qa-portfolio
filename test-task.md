@@ -122,7 +122,7 @@
 
 ---
 
-## 🧭 3. Compatibility Testing — YouTube
+## 🧭 3. Compatibility Testing
 
 ---
 
