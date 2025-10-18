@@ -151,7 +151,7 @@
 
 ---
 
-## ✅ 4. Чек-лист — Smoke Testing YouTube
+## 📋 4. Чек-лист — Smoke Testing YouTube
 
 ---
 
