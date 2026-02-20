@@ -205,6 +205,7 @@
 ---
 
 ## 📎 Дополнительно
-Полная версия задания оформлена в Excel-файле
+
+Полная версия задания оформлена в Excel-файле:
 
 https://docs.google.com/spreadsheets/d/1fOz7WXRwP7tr-nl1D_93VCljoKGLkGOHmk5GkQK7_ik/edit?usp=drive_link
